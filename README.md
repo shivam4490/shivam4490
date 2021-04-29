@@ -19,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam4490&show_icons=true&locale=en&layout=compact" alt="shivam4490" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam4490&show_icons=true&locale=en" alt="shivam4490" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam4490&" alt="shivam4490" /></p>
