@@ -18,6 +18,6 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam4490&langs_count=7&theme=tokyonight)]()
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam4490&show_icons=true&locale=en" alt="shivam4490" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=shivam4490&&show_icons=true&theme=radical&line_height=27&v=5" alt="https://github.com/shivam4490" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam4490&" alt="shivam4490" /></p>
