@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Chandvaniya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam4490" alt="shivam4490" /></a> </p>
+
 
 - 📫 How to reach me **csg9152@gmail.com**
 
