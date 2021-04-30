@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/cvam_01" target="blank"><img src="https://img.icons8.com/android/40/000000/twitter.png"/></a>
 <a href="https://linkedin.com/in/shivam chandvaniya" target="blank"><img src="https://img.icons8.com/android/40/000000/linkedin.png"/></a>
-<a href="https://instagram.com/_shivam_112" target="blank"><img src="https://img.icons8.com/cute-clipart/40/000000/instagram-new.png"/></a>
+<a href="https://instagram.com/_shivam_112" target="blank"><img src="https://img.icons8.com/metro/40/000000/instagram-new.png"/></a>
 <a href="https://discord.gg/HUNTER#6364" target="blank"><img src="https://img.icons8.com/doodle/40/000000/discord-logo.png"/></a>
 </p>
 
